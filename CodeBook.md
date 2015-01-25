@@ -64,7 +64,13 @@ The only variables which is taken in account in this tidy data set is the:
 mean(): Mean value
 std(): Standard deviation
 
+## Units
+
 All the measurements are normalized and bounded within [-1,1].
+
+Accelerometer values are in standard gravity units 'g'
+Velocity units are radians/second.
+
 
 Activity
 =================
