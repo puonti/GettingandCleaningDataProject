@@ -61,7 +61,7 @@ fBodyGyroJerkMag
 The set of variables that were estimated from these signals were much bigger. 
 The only variables which is taken in account in this tidy data set is the:
 
-mean(): Mean value
+mean(): Mean value  
 std(): Standard deviation
 
 ## Units
