@@ -68,7 +68,7 @@ std(): Standard deviation
 
 All the measurements are normalized and bounded within [-1,1].
 
-Accelerometer values are in standard gravity units 'g'
+Accelerometer values are in standard gravity units 'g'.  
 Velocity units are radians/second.
 
 
